@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360567637085",
+    "project_id": "artbot-c3973",
+    "storage_bucket": "artbot-c3973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360567637085:android:01042d74d7e80c7c90f9b4",
+        "android_client_info": {
+          "package_name": "com.example.artbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBw4WMwPpwhWEhUBYf8BIUpL6T26iZLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
